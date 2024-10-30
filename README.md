@@ -14,6 +14,6 @@ I've had the pleasure of contributing to **100+ Discourse projects** around the 
 You can find me enjoying music on [Spotify](https://open.spotify.com/user/bekircem) 🎵 or sharing insights on [Twitter](https://twitter.com/bekircem) 🐦.
 
 ### 📫 Get in Touch
-If you have any questions or just want to chat, feel free to reach out via email: [bekircem@duck.com](mailto:bekircem@duck.com)
+If you have any questions or just want to chat, feel free to reach out via email: [hey@bekircem.me](mailto:hey@bekircem.me)
 
 Let's build something awesome together! 💻
