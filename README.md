@@ -3,7 +3,8 @@
 I'm a **freelancer** with a passion for technology, working on **Upwork** as a **Top-Rated** freelancer with a **100% Job Success Score**. Over the past **15 years**, I've immersed myself in various technological fields, both as a hobbyist and a professional.
 
 ### 🚀 What I Do
-While I have experience across many domains, my current focus is on:
+While I have experience across numerous fields, my current focus is on:
+
 - **Server Management**
 - **Front-End Customizations**
 - **Discourse Customization and Configuration**
