@@ -6,7 +6,7 @@ I'm a **freelancer** with a passion for technology, working on **Upwork** as a *
 While I have experience across numerous fields, my current focus is on:
 
 - **Server Management**
-- **Front-End Customizations**
+- **Front-End Development**
 - **Discourse Customization and Configuration**
 
 I've had the pleasure of contributing to **100+ Discourse projects** around the world, delivering quality results for clients of all sizes. I'm continuously sharpening my skills in **Front-End Technologies** and **Artificial Intelligence**.
